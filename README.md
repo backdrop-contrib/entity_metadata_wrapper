@@ -1,6 +1,8 @@
 Entity Metadata Wrapper module
 =================
 
+**This module is deprecated. Use [Entity Plus](https://github.com/backdrop-contrib/entity_plus) instead.**
+
 This module is intended to port the "wrapper" bits from the Drupal Entity API
 module.
 
